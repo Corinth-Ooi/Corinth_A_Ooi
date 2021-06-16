@@ -13,7 +13,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/profile.jpg)
+![alt text](https://raw.githubusercontent.com/Corinth-Ooi/Corinth_A_Ooi/main/CAO-profpic.jpg)
 
 <!-- Add your details -->
 
