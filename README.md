@@ -6,7 +6,7 @@
 ✉️: email_id@xxxxx.com 
 &nbsp;&nbsp; 📲 +65-XXXX XXXX
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/) 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https:)
+
 <!-- CONTACT Section Ends -->
 
 <!-- ABOUT Section Starts -->
